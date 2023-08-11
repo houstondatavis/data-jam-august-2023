@@ -12,6 +12,7 @@ The data is located in data/BikeShare Trips.
 
 If helpful, here's some R code to combine csv's into one dataframe.
 It's a lot of data so feel free to adjust how much you read in at a time.
+By default it reads the data in as characters, so be sure to adjust the column types as needed.
 
 ```
 library(readr)
@@ -39,5 +40,3 @@ combine_csvs <- function(folder_path) {
 
 df <- combine_csvs("data/BikeShareTrips/")
 ```
-
-## Data Dictionary
