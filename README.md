@@ -4,8 +4,9 @@ The dataset was provided by Houston BikeShare that operates Houston BCycle, a bi
 
 ## The Data
 
-The data is located in data/BikeShare Trips.
+The trip data is located in [data/BikeShare Trips](https://github.com/houstondatavis/data-jam-august-2023/tree/main/data/BikeShareTrips).
 
+Main station data is here: [data/StationsListing/Station List with suspensions.xlsx - May 2023 suspensions.csv](https://github.com/houstondatavis/data-jam-august-2023/blob/main/data/StationsListing/Station%20List%20with%20suspensions.xlsx%20-%20May%202023%20suspensions.csv)
 
 
 ### Option to combine files
