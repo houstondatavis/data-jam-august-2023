@@ -40,3 +40,9 @@ combine_csvs <- function(folder_path) {
 
 df <- combine_csvs("data/BikeShareTrips/")
 ```
+
+### Other Related Data
+
+A google sheet that has on its right side demographics data calculated for bike stations
+https://docs.google.com/spreadsheets/d/1v6nwIHXWr8oG-NAxIRwOjZEQamURJpEXcgNJtlO1lQI/edit?usp=sharing
+This uses the "magic spreadsheet" shown here: https://source.opennews.org/articles/magic-spreadsheets-neighborhood-inequities/
